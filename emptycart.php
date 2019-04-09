@@ -1,0 +1,20 @@
+<?php include 'header.php'; ?>
+<div class="tt-breadcrumb">
+    <div class="container">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li>Shopping Cart Is Empty</li>
+        </ul>
+    </div>
+</div>
+<div id="tt-pageContent">
+    <div class="container-indent nomargin">
+        <div class="tt-empty-cart">
+            <span class="tt-icon icon-f-39"></span>
+            <h1 class="tt-title">SHOPPING CART IS EMPTY</h1>
+            <p>You have no items in your shopping cart.</p>
+            <a href="#" class="btn">CONTINUE SHOPPING</a>
+        </div>
+    </div>
+</div>
+<?php include 'footer.php'; ?>
